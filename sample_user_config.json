@@ -1,3 +1,4 @@
+
 {
     "extra_cmdline": {
         "pid": "0x20e0",
@@ -10,10 +11,8 @@
         "maxlanport": "2",
         "supportsystemperature": "no",
         "supportsystempwarning": "no",
-        "maxdisks" : "2",
-        "internalportcfg" : "0x2",
+        "maxdisks" : "16",
+        "internalportcfg" : "0xfffe",
         "esataportcfg" : "0x1"
-    },
-    "ramdisk_copy": {}
+    }
 }
-
